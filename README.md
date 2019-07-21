@@ -1,24 +1,5 @@
-# README
+# Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is a simple clone of reddit with the features where user can creat and comment on a post. The goal of the project is to learn about models and association using Active Records gem. There is no user interface, it can only be interact/experiment with inside `rails console`.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Created as part of The Odin Project's [curriculum](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails#project-2-micro-reddit)
